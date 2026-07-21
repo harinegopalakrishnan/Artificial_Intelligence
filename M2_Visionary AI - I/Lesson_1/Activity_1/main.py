@@ -1,4 +1,8 @@
 '''
+Display & resize image with OpenCV
+Short description:
+In this activity, students will learn how to load an image using OpenCV, display it in a resizable window, and adjust the window size. They will also explore the properties of an image such as dimensions and channels.
+
 Install necessary libraries :
 pip install opencv-python
 '''
